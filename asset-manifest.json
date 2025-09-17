@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/boostly-commission-calculator/static/css/main.cf890fdb.css",
+    "main.css": "/boostly-commission-calculator/static/css/main.2ce3dec4.css",
     "main.js": "/boostly-commission-calculator/static/js/main.6f16bdfe.js",
     "static/js/453.27c442c4.chunk.js": "/boostly-commission-calculator/static/js/453.27c442c4.chunk.js",
     "index.html": "/boostly-commission-calculator/index.html",
-    "main.cf890fdb.css.map": "/boostly-commission-calculator/static/css/main.cf890fdb.css.map",
+    "main.2ce3dec4.css.map": "/boostly-commission-calculator/static/css/main.2ce3dec4.css.map",
     "main.6f16bdfe.js.map": "/boostly-commission-calculator/static/js/main.6f16bdfe.js.map",
     "453.27c442c4.chunk.js.map": "/boostly-commission-calculator/static/js/453.27c442c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf890fdb.css",
+    "static/css/main.2ce3dec4.css",
     "static/js/main.6f16bdfe.js"
   ]
 }
